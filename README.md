@@ -5,8 +5,11 @@ This project is a blockchain-based Land Registry System that ensures secure, tra
 
 # Features
 ✅ Land Registration – Registers land with a unique ID, location, area, and owner details.
+
 ✅ Fraud Prevention – Ensures only unregistered land can be added.
+
 ✅ Secure Ownership Transfer – Only the current owner can sell or transfer land.
+
 ✅ Instant Verification – Anyone can check land details via blockchain.
 
 # Technology Used:
